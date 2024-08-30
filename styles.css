@@ -3,7 +3,7 @@ body {
 }
 
 .hero {
-    border: 2px solid black;
+    
     height: 100vh;
 }
 
@@ -92,6 +92,10 @@ button {
     font-size: 20px;
     line-height: 32px;
     color: #FFFFFF;
+}
+
+.footer ul li {
+    cursor: pointer;
 }
 
 .left-footer {
