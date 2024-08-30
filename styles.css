@@ -6,6 +6,7 @@ body {
 .hero {
     
     height: 100vh;
+    width: 100vw;
 }
 
 .content {
@@ -16,7 +17,7 @@ body {
 
 .left-content {
     margin-left: 136px;
-    margin-top: 83px;
+    margin-top: 70px;
 }
 
 .header {
